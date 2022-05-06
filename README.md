@@ -12,3 +12,4 @@
 
 ## Trouble Shooting
 - [setValue:forUndefinedKey:\]](https://github.com/EunHee-Jeong/TIL/issues/13)
+- [Nib과 Xib, Storyboard](https://github.com/EunHee-Jeong/TIL/issues/11)
