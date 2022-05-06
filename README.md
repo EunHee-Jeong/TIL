@@ -9,3 +9,6 @@
 ## Data Structure & Algorithm
 - [[Swift] Hashable, Set, Dictionary](https://osoomoovo.tistory.com/215)
 - [[Swift] String](https://github.com/EunHee-Jeong/TIL/issues/4)
+
+## Trouble Shooting
+- [setValue:forUndefinedKey:\]](https://github.com/EunHee-Jeong/TIL/issues/13)
