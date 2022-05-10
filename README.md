@@ -10,6 +10,9 @@
 - [[Swift] Hashable, Set, Dictionary](https://osoomoovo.tistory.com/215)
 - [[Swift] String](https://github.com/EunHee-Jeong/TIL/issues/4)
 
+## Swift
+- [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
+
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
 
