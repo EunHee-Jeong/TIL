@@ -19,3 +19,6 @@
 ## Trouble Shooting
 - [setValue:forUndefinedKey:\]](https://github.com/EunHee-Jeong/TIL/issues/13)
 - [Nib과 Xib, Storyboard](https://github.com/EunHee-Jeong/TIL/issues/11)
+
+## UIKit
+- [루트 뷰에 여러 개의 컬렉션 뷰를 올렸을 때 Crash 되는 현상](https://github.com/EunHee-Jeong/TIL/issues/16)
