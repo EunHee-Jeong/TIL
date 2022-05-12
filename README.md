@@ -16,6 +16,7 @@
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
 - [Stacks, Spacer()](https://github.com/EunHee-Jeong/TIL/issues/18)
+- [@State, @Binding을 이용해 값 동적으로 할당하기](https://github.com/EunHee-Jeong/TIL/issues/19)
 
 ## Trouble Shooting
 - [setValue:forUndefinedKey:\]](https://github.com/EunHee-Jeong/TIL/issues/13)
