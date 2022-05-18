@@ -1,5 +1,10 @@
 # TIL
 
+![심야아요 배너](https://user-images.githubusercontent.com/61109660/167799338-ab43eea4-8396-4f9b-be2f-99c57d9b2982.png)
+> 딱 한 가지만 지킨다. 주말을 제외하고 매일 1가지의 TIL을 기록하고 자정이 되면 그 내용을 공유한다.
+
+<br/>
+
 ## Architecture & Design Pattern
 - [Programming Architecture History in iOS](https://github.com/EunHee-Jeong/TIL/issues/5)
 - [의존성 주입 DI](https://github.com/EunHee-Jeong/TIL/issues/20)
@@ -15,6 +20,7 @@
 
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
+- [동시성 → 병렬성 → GCD → DispatchQueue](https://github.com/EunHee-Jeong/TIL/issues/26)
 
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
