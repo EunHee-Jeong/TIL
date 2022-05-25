@@ -18,6 +18,9 @@
 - [[Swift] Hashable, Set, Dictionary](https://osoomoovo.tistory.com/215)
 - [[Swift] String](https://github.com/EunHee-Jeong/TIL/issues/4)
 
+## Networking
+- [OSI 7계층과 TCP/IP](https://github.com/EunHee-Jeong/TIL/issues/32)
+
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
 - [동시성 → 병렬성 → GCD → DispatchQueue](https://github.com/EunHee-Jeong/TIL/issues/26)
