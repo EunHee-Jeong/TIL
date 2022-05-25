@@ -20,6 +20,7 @@
 
 ## Networking
 - [OSI 7계층과 TCP/IP](https://github.com/EunHee-Jeong/TIL/issues/32)
+- [TCP/IP 표준 프로토콜(1) HTTP](https://github.com/EunHee-Jeong/TIL/issues/31)
 
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
