@@ -9,6 +9,7 @@
 - [Programming Architecture History in iOS](https://github.com/EunHee-Jeong/TIL/issues/5)
 - [의존성 주입 DI](https://github.com/EunHee-Jeong/TIL/issues/20)
 - [의존 관계 역전 원칙 DIP와 iOS에서의 예시](https://github.com/EunHee-Jeong/TIL/issues/21)
+- [구조 패턴 - proxy](https://github.com/EunHee-Jeong/TIL/issues/33)
 
 ## CS
 - [I/O Model (Blocking vs Non-Blocking / Sync vs Async)](https://github.com/EunHee-Jeong/TIL/issues/1)
