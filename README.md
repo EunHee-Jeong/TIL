@@ -23,6 +23,7 @@
 - [OSI 7계층과 TCP/IP](https://github.com/EunHee-Jeong/TIL/issues/32)
 - [TCP/IP 표준 프로토콜(1) HTTP](https://github.com/EunHee-Jeong/TIL/issues/31)
 - [JSON Mock-Data를 사용해 서버 연결 연습하는 법](https://github.com/EunHee-Jeong/TIL/issues/2)
+- [Transport Layer](https://shy-week-7ba.notion.site/23-Introduction-to-Transport-Layer-c787328776a5498e8a7ced52937d5acf)
 
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
