@@ -30,6 +30,7 @@
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
 - [동시성 → 병렬성 → GCD → DispatchQueue](https://github.com/EunHee-Jeong/TIL/issues/26)
+- [함수 function 와 메서드 method 의 차이점](https://github.com/EunHee-Jeong/TIL/issues/38)
 
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
