@@ -26,6 +26,7 @@
 - [JSON Mock-Data를 사용해 서버 연결 연습하는 법](https://github.com/EunHee-Jeong/TIL/issues/2)
 - [Transport Layer](https://shy-week-7ba.notion.site/23-Introduction-to-Transport-Layer-c787328776a5498e8a7ced52937d5acf)
 - [Transport Layer Protocols](https://shy-week-7ba.notion.site/24-Transport-Layer-Protocols-25de6336c75149ed8c5099105ecac0af)
+- [JWT (Access Token, Refresh Token)](https://github.com/EunHee-Jeong/TIL/issues/34)
 
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
