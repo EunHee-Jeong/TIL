@@ -33,6 +33,7 @@
 - [동시성 → 병렬성 → GCD → DispatchQueue](https://github.com/EunHee-Jeong/TIL/issues/26)
 - [함수 function 와 메서드 method 의 차이점](https://github.com/EunHee-Jeong/TIL/issues/38)
 - [Property Observer 활용하기](https://github.com/EunHee-Jeong/TIL/issues/39)
+- [Ordered Collection Diffing](https://github.com/EunHee-Jeong/TIL/issues/40)
 
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
