@@ -50,3 +50,4 @@
 - [Creating a Multiview Application](https://github.com/EunHee-Jeong/TIL/issues/28)
 - [화면 및 Return/Enter 키를 터치했을 때 키보드 처리 방법들](https://github.com/EunHee-Jeong/TIL/issues/29)
 - [AppDelegate vs SceneDelegate, App’s Lifecycle](https://github.com/EunHee-Jeong/TIL/issues/41)
+- [SceneDelegate에서 window 설정하기](https://github.com/EunHee-Jeong/TIL/issues/42)
