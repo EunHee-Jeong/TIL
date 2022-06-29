@@ -56,3 +56,4 @@
 - [AppDelegate vs SceneDelegate, App’s Lifecycle](https://github.com/EunHee-Jeong/TIL/issues/41)
 - [SceneDelegate에서 window 설정하기](https://github.com/EunHee-Jeong/TIL/issues/42)
 - [UICollectionViewCompositionalLayout](https://github.com/EunHee-Jeong/TIL/issues/43)
+- [NotificationCenter와 적절한 사용 예시](https://github.com/EunHee-Jeong/TIL/issues/46)
