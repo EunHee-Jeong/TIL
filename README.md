@@ -30,6 +30,7 @@
 - [Transport Layer](https://shy-week-7ba.notion.site/23-Introduction-to-Transport-Layer-c787328776a5498e8a7ced52937d5acf)
 - [Transport Layer Protocols](https://shy-week-7ba.notion.site/24-Transport-Layer-Protocols-25de6336c75149ed8c5099105ecac0af)
 - [JWT (Access Token, Refresh Token)](https://github.com/EunHee-Jeong/TIL/issues/34)
+- [Firebase, Firebase Auth](https://github.com/EunHee-Jeong/TIL/issues/47)
 
 ## Swift
 - [@propertyWrapper](https://github.com/EunHee-Jeong/TIL/issues/15)
