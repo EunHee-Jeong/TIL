@@ -39,6 +39,7 @@
 - [Property Observer 활용하기](https://github.com/EunHee-Jeong/TIL/issues/39)
 - [Ordered Collection Diffing](https://github.com/EunHee-Jeong/TIL/issues/40)
 - [Swift에서의 오류 처리 (런타임 시간)](https://github.com/EunHee-Jeong/TIL/issues/44)
+- [DispatchQueue.main.async를 사용하는 이유](https://github.com/EunHee-Jeong/TIL/issues/48)
 
 ## SwiftUI
 - [SwiftUI에 대해 알아보자~ (1탄)](https://github.com/EunHee-Jeong/TIL/issues/14)
