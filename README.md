@@ -20,6 +20,9 @@
 - [[Swift] Hashable, Set, Dictionary](https://osoomoovo.tistory.com/215)
 - [[Swift] String](https://github.com/EunHee-Jeong/TIL/issues/4)
 
+## iOS
+- [MacOS의 접근 제어 정책: SandBox](https://github.com/EunHee-Jeong/TIL/issues/49)
+
 ## Library
 - [R.swift란? + 사용법](https://github.com/EunHee-Jeong/TIL/issues/45)
 
